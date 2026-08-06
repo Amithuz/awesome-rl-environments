@@ -46,6 +46,7 @@ Maintained as a community list alongside [RL List](https://rl-list.com), a publi
 - **[Halluminate](https://halluminate.ai)** — Computer-use environments with a financial-services focus.
 - **[AfterQuery](https://afterquery.com)** — Code and finance benchmark environments.
 - **[Mercor](https://mercor.com)** — Domain-specific environments (code, healthcare, law) sourced through an expert marketplace.
+- **[Dissei](https://dissei.ai)** — RL environments and LLM benchmarks for credit and lending, built from real European mid-market deals with verifiable rewards from underwriting outcomes.
 
 ## Human-Data Platforms
 
