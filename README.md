@@ -36,6 +36,7 @@ Maintained as a community list alongside [RL List](https://rl-list.com), a publi
 - **[Halluminate](https://halluminate.ai)** — Resettable computer-use sandboxes (e.g., a synthetic CRM) and datasets; strong financial-services focus.
 - **[Plato](https://plato.so)** — Browser-interaction environments fused with enterprise workflow simulation.
 - **[Matrices](https://matrices.ai)** — Browser-native environments for web navigation and interaction tasks.
+- **[Collinear AI](https://collinear.ai/)** — Builds RL environments for software engineering and enterprise computer use, including runnable tasks across connected workplace apps.
 
 ## Long-Horizon & Reasoning
 
