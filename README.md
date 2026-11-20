@@ -36,7 +36,7 @@ Maintained as a community list alongside [RL List](https://rl-list.com), a publi
 - **[Halluminate](https://halluminate.ai)** — Resettable computer-use sandboxes (e.g., a synthetic CRM) and datasets; strong financial-services focus.
 - **[Plato](https://plato.so)** — Browser-interaction environments fused with enterprise workflow simulation.
 - **[Matrices](https://matrices.ai)** — Browser-native environments for web navigation and interaction tasks.
-- **[Collinear AI](https://collinear.ai/)** — Builds RL environments and evaluations for AI agents, including CWE-bench for cybersecurity, FrontierCUA for enterprise computer use, and MatFlowBench for materials science.
+- **[Collinear AI](https://collinear.ai/)** — Provides runnable enterprise-app training tasks through the FrontierCUA corpus and evaluates agents in cybersecurity with CWE-bench and materials science with MatFlowBench.
 
 ## Long-Horizon & Reasoning
 
